@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_jasmine_sprout.mk
+    $(LOCAL_DIR)/spark_jasmine_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_jasmine_sprout-user \
-    derp_jasmine_sprout-userdebug \
-    derp_jasmine_sprout-eng
+    spark_jasmine_sprout-user \
+    spark_jasmine_sprout-userdebug \
+    spark_jasmine_sprout-eng
